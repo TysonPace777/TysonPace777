@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm currently working towards a Bachelors in Computer Programming through BYU Pathway and BYUI.
+I really enjoy programming and working through bugs to make everything come together in the end.
 <!--
 **TysonPace777/TysonPace777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
