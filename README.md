@@ -6,7 +6,7 @@ I aspire to become a Software Developer and make cool apps and websites.
 
 Proficient in: JavaScript, HTML, CSS, Python, Node.js
 
-Feel free to check out my repositories which contain my projects.
+Feel free to check out my repositories which contain some of my projects.
 
 Let's Connect!
 - LinkedIn: www.linkedin.com/in/tyson-pace-3934882ba
